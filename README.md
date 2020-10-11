@@ -16,10 +16,6 @@ https://www.qwiklabs.com/focuses/10525?parent=catalog
 > ./1.sh
 
 
-if error on python3 data.py, just retry it 
-
-> ./2.sh
-
 # Terminal 2 for gcloud authentication
 gcloud init
 
