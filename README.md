@@ -6,8 +6,11 @@ https://www.qwiklabs.com/focuses/10525?parent=catalog
 
 # Terminal 1
 > git clone https://github.com/gablooge/GSP674.git
+
 > cd GSP674
+
 > sudo chmod +x 1.sh
+
 > sudo chmod +x 2.sh
 
 > ./1.sh
